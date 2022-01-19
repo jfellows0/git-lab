@@ -10,5 +10,5 @@ answer 9: your branch is up to date, nothing to commit
 answer 10: no
 answer 11: it allows me to put in my credentials, but informs me i have outdated files
 answer 12: yes
-
+answer 13: . .. .git .gitignore README.md
 
